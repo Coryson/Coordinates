@@ -1,0 +1,7 @@
+name: Coordinates
+version: ${version}
+main: de.coryson.coordinates.main
+api-version: ${apiVersion}
+api: "1.20"
+load: POSTWORLD
+author: Coryson

@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "fwcd.kotlin",
+        "vscjava.vscode-gradle",
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker",
+        "editorconfig.editorconfig"
+    ],
+    "unwantedRecommendations": []
+}

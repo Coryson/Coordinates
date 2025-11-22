@@ -1,0 +1,47 @@
+# Build outputs
+/build/
+/out/
+/classes/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# VS Code
+.history/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# Kotlin/Java
+*.class
+*.kotlin_metadata
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Local environment
+.env
+.env.*
